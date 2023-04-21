@@ -1,7 +1,7 @@
-Class Sum
+class Sum
  {
-	public static int addSum(int a,int b)
+	public static int addSum(int a,int b,int c)
 	{
-		return a+b;
+		return a+b+c;
 	}
 }
